@@ -1,6 +1,6 @@
 # Gramercy Park
 ## A neighborhood located near the L-Train.
-![Gramercy Park](map.geojson)
+![Gramercy Park](https://www.google.com/search?q=gramercy+park&oq=gramercy+park&aqs=chrome..69i57j0l5.2540j1j7&sourceid=chrome&ie=UTF-8#)
 
 This neighborhood spans from 1st to 3rd Avenue and 14th to 23rd Street.
 
